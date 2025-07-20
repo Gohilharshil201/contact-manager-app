@@ -42,6 +42,27 @@ contact-manager-app/
 
 ---
 
+---
+
+## 📸 Preview
+
+Here’s a quick look at the app in action:
+
+### 🔐 Login Page
+![Login](./frontend/src/assets/preview-images/Login.png)
+
+### 📝 Register Page
+![Register](./frontend/src/assets/preview-images/Register.png)
+
+### 📇 Dashboard Page
+![Dashboard](./frontend/src/assets/preview-images/Dashboard.png)
+
+### 📋 Contact Detail Form
+![Detail](./frontend/src/assets/preview-images/Detail.png)
+
+---
+
+
 ## ⚙️ Setup
 
 ### 1️⃣ Clone the Repository
